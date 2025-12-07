@@ -27,7 +27,7 @@ int binaryrootSquare(int num)
 int main()
 {
     int num=9;
-    int result=binaryrootSquare(9);
+    int result=binaryrootSquare(16);
     if (result==-1)
     {
         cout<<"Square root not found"<<endl;
